@@ -1,0 +1,23 @@
+{
+  "name": "ahbuilder",
+  "version": "1.0.0",
+  "description": "a builder to build js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfm-an/ahbuilder.git"
+  },
+  "keywords": [
+    "builder",
+    "js"
+  ],
+  "author": "Hfm-an",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hfm-an/ahbuilder/issues"
+  },
+  "homepage": "https://github.com/hfm-an/ahbuilder#readme"
+}
